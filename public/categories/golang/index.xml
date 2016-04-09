@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT 人生 </title>
+    <link>http://bluebird88.github.io/categories/golang/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2014</rights>
+    <updated>2014-04-02 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>Getting Started with Hugo</title>
+          <link>http://bluebird88.github.io/post/sample/</link>
+          <pubDate>Wed, 02 Apr 2014 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://bluebird88.github.io/post/sample/</guid>
+          <description>&lt;p&gt;Contents here
+Contac&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
